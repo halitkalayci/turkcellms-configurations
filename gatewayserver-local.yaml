@@ -22,7 +22,7 @@ spring:
             predicates:
               - Path=/eureka/**
 server:
-  port: 8010
+  port: 8080
 eureka:
   client:
     serviceUrl:
